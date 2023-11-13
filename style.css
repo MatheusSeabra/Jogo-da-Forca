@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: C'Times New Roman', serif;
+    background-color: rgba(17, 0, 255, 0.623);
+   
+}
+
+canvas {
+    border:1px solid #353333;
+    background-color: #f1f1f1;
+
+}
+button {
+    width: 150px;
+    height: 50px;
+    background-color: rgba(17, 0, 255, 0.623);
+    color: rgb(255, 255, 255);
+}
